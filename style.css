@@ -1,0 +1,28 @@
+.done{
+	text-decoration: line-through;
+}
+
+body{
+	background-image: url("bg2.jpg");
+	background-size:cover;
+}
+#enter{
+	background-color:cyan;
+}
+ul{
+	margin-top: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: Verdana;
+}
+.headline{
+	display:flex;
+	justify-content: center;
+}
+.para{
+	display:flex;
+	justify-content: space-around;
+}
+html{
+	margin:0px;
+}
